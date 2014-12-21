@@ -1,4 +1,5 @@
 SetTitleMatchMode, 2
+DetectHiddenWindows, On
 
 ;previous song
 #z::
